@@ -5,11 +5,11 @@
 <table>
   <thead>
       <td style="text-align:left;">Assigned</td>
-      <td style="text-align:left;">Monday 16 September 2024</td>
+      <td style="text-align:left;">Monday 21 October 2024</td>
   </thead>
   <tfoot>
       <td style="text-align:left; color: red;">Deadline</td>
-      <td style="text-align:left;">Friday 20 September 2024</td>
+      <td style="text-align:left;">Friday 25 October 2024</td>
   </tfoot>
 </table>
 
@@ -36,10 +36,9 @@ These assignment learning outcomes contribute to the following course learning o
 ### Part 1: Wiki Pages
 - Please create a `Home` page in the Wiki. This page should provide an overview of your Jekyll portfolio project, including its purpose and main features.
 
-### Part 2: Add at least three additional pages:
+### Part 2: Add at least two additional pages:
 - `Setup Guide`: Instructions on how to clone the repository, install dependencies, and run the project locally.
 - `Features`: A detailed description of the key features of your portfolio site, including any customization or plugins used.
-- `Contributing`: Guidelines for contributing to the project, including how to submit issues, feature requests, or pull requests.
 
 ### Part 3: Using Markdown
 - Use various markdown elements (headers, lists, links, images, code blocks) to format the pages. Include:
@@ -56,18 +55,19 @@ These assignment learning outcomes contribute to the following course learning o
 - Github Wiki: https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
 
 ## Deliverables
-Please submit your work by pushing it to your GitHub Classroom repository.
+Please submit your work by pushing it to your GitHub repository.
 
 ## Project Assessment
-- **Repository and Wiki Setup (30%)**: Repository updated and Wiki enabled.
-- **Content Creation (30%)**: 
+- **Repository and Wiki Setup (20%)**: Repository updated and Wiki enabled.
+- **Content Creation**: 
     1. Home page (10%)
     2. Setup Guide page (10%)
     3. Features page (10%)
 - **Markdown Usage (20%)**: Proper use of markdown elements (headers, lists, links, code blocks).
-- **Advanced Documentation (20%)**:
+- **Advanced Documentation**:
     1. Sidebar navigation (10%)
     2. Embedded images/diagrams (10%)
+- **GatorGrader Compliance (10%)**: Meets all GatorGrader criteria.
 
 ## Gator Grade
 ### GatorGrade Checks for Immediate Feedback
