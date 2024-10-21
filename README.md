@@ -58,12 +58,12 @@ These assignment learning outcomes contribute to the following course learning o
 Please submit your work by pushing it to your GitHub repository.
 
 ## Project Assessment
-- **Repository and Wiki Setup (20%)**: Repository updated and Wiki enabled.
+- **Repository and Wiki Setup (10%)**: Repository updated and Wiki enabled.
 - **Content Creation**: 
     1. Home page (10%)
     2. Setup Guide page (10%)
     3. Features page (10%)
-- **Markdown Usage (20%)**: Proper use of markdown elements (headers, lists, links, code blocks).
+- **Markdown Usage (30%)**: Proper use of markdown elements (headers, lists, links, code blocks and table).
 - **Advanced Documentation**:
     1. Sidebar navigation (10%)
     2. Embedded images/diagrams (10%)
